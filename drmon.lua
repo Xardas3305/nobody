@@ -6,7 +6,7 @@ local targetStrength = 10
 local targetTemperature = 7900
 local maxTemperature = 8000
 local safeTemperature = 6000
-local maxOutput = 5e6
+local maxOutput = 1e7
 local lowestFieldPercent = 5
 
 local activateOnCharged = 1
